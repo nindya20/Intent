@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FDF5E6"
     android:orientation="vertical">
 
     <EditText
@@ -11,7 +12,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:gravity="center"
-        android:hint="masukan nama"
+        android:hint="Kenalan yuk!"
         android:inputType="textPersonName" />
 
     <Button
@@ -20,5 +21,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="8dp"
-        android:text="Send Data" />
+        android:background="#A2E1DB"
+        android:text="Hayuk" />
 </LinearLayout>
