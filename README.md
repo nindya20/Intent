@@ -10,3 +10,14 @@ Intent adalah mekanisme untuk melakukan sebuah action dan komunikasi antar kompo
 
 # Berikut Contoh Penerapan Intent Explicit
 
+Tampilan sebelum mengisi data
+
+![WhatsApp Image 2021-02-09 at 21 13 00](https://user-images.githubusercontent.com/60589822/107376324-57217980-6b1c-11eb-9ec2-ba16059b4b24.jpeg)
+
+Tampilan setelah data terisi
+
+![WhatsApp Image 2021-02-09 at 20 51 21](https://user-images.githubusercontent.com/60589822/107376337-5be62d80-6b1c-11eb-8ddd-17a946c2abed.jpeg)
+
+Berpindah dari satu activity ke activity lain dengan membawa data
+
+![WhatsApp Image 2021-02-09 at 20 51 22](https://user-images.githubusercontent.com/60589822/107376350-5f79b480-6b1c-11eb-835e-aeab3016e022.jpeg)
